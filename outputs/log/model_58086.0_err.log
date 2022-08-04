@@ -1,0 +1,11 @@
+usage: train.py [-h] [--root_path ROOT_PATH] [--dataset DATASET]
+                [--list_dir LIST_DIR] [--num_classes NUM_CLASSES]
+                [--output_dir OUTPUT_DIR] [--max_iterations MAX_ITERATIONS]
+                [--max_epochs MAX_EPOCHS] [--batch_size BATCH_SIZE]
+                [--n_gpu N_GPU] [--deterministic DETERMINISTIC]
+                [--base_lr BASE_LR] [--img_size IMG_SIZE] [--seed SEED]
+                [--opts OPTS [OPTS ...]] [--zip] [--cache-mode {no,full,part}]
+                [--resume RESUME] [--accumulation-steps ACCUMULATION_STEPS]
+                [--use-checkpoint] [--amp-opt-level {O0,O1,O2}] [--tag TAG]
+                [--eval] [--throughput]
+train.py: error: unrecognized arguments: --is_savenii --volume_path /images/PublicDataset/Transunet_synaps/project_TransUNet/data/Synapse

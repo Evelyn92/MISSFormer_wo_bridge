@@ -1,0 +1,48 @@
+000 (58083.000.000) 2022-07-25 10:44:30 Job submitted from host: <134.130.37.5:9618?addrs=134.130.37.5-9618&alias=nic.lfb.rwth-aachen.de&noUDP&sock=schedd_4939_5258>
+...
+040 (58083.000.000) 2022-07-25 10:44:30 Started transferring input files
+	Transferring to host: <134.130.37.53:9618?addrs=134.130.37.53-9618&alias=pc53.lfb.rwth-aachen.de&noUDP&sock=slot1_1_5152_cccb_67>
+...
+040 (58083.000.000) 2022-07-25 10:44:30 Finished transferring input files
+...
+001 (58083.000.000) 2022-07-25 10:44:31 Job executing on host: <134.130.37.53:9618?addrs=134.130.37.53-9618&alias=pc53.lfb.rwth-aachen.de&noUDP&sock=startd_5021_911c>
+...
+006 (58083.000.000) 2022-07-25 10:44:39 Image size of job updated: 46124
+	25  -  MemoryUsage of job (MB)
+	24964  -  ResidentSetSize of job (KB)
+...
+006 (58083.000.000) 2022-07-25 10:49:39 Image size of job updated: 78248228
+	3102  -  MemoryUsage of job (MB)
+	3176020  -  ResidentSetSize of job (KB)
+...
+006 (58083.000.000) 2022-07-25 10:54:40 Image size of job updated: 78667048
+	3102  -  MemoryUsage of job (MB)
+	3176020  -  ResidentSetSize of job (KB)
+...
+010 (58083.000.000) 2022-07-25 10:56:30 Job was suspended.
+	Number of processes actually suspended: 54
+...
+006 (58083.000.000) 2022-07-25 10:56:30 Image size of job updated: 111421788
+	3172  -  MemoryUsage of job (MB)
+	3248036  -  ResidentSetSize of job (KB)
+...
+006 (58083.000.000) 2022-07-25 10:57:56 Image size of job updated: 111421788
+	3173  -  MemoryUsage of job (MB)
+	3248856  -  ResidentSetSize of job (KB)
+...
+004 (58083.000.000) 2022-07-25 10:57:56 Job was evicted.
+	(0) CPU times
+		Usr 0 00:14:48, Sys 0 00:02:34  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	236  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     6.25        1         1 
+	   Disk (KB)            :    22           1    172850 
+	   Gpus (Average)       :     0.15        1         1 "CUDA0"
+	   GpusMemory (MB)      :  7771                       
+	   Memory (MB)          :  3173       20480     20480 
+...
+009 (58083.000.000) 2022-07-25 10:57:56 Job was aborted.
+	via condor_rm (by user yiwei)
+...

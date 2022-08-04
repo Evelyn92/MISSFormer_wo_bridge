@@ -1,0 +1,35 @@
+000 (58086.001.000) 2022-07-25 11:11:07 Job submitted from host: <134.130.37.5:9618?addrs=134.130.37.5-9618&alias=nic.lfb.rwth-aachen.de&noUDP&sock=schedd_4939_5258>
+...
+040 (58086.001.000) 2022-07-25 11:11:07 Started transferring input files
+	Transferring to host: <134.130.37.58:9618?addrs=134.130.37.58-9618&alias=pc58.lfb.rwth-aachen.de&noUDP&sock=slot1_1_3380460_a172_255>
+...
+040 (58086.001.000) 2022-07-25 11:11:07 Finished transferring input files
+...
+001 (58086.001.000) 2022-07-25 11:11:08 Job executing on host: <134.130.37.58:9618?addrs=134.130.37.58-9618&alias=pc58.lfb.rwth-aachen.de&noUDP&sock=startd_3380317_e0b5>
+...
+006 (58086.001.000) 2022-07-25 11:11:17 Image size of job updated: 953344
+	255  -  MemoryUsage of job (MB)
+	260812  -  ResidentSetSize of job (KB)
+...
+006 (58086.001.000) 2022-07-25 11:11:21 Image size of job updated: 5458840
+	255  -  MemoryUsage of job (MB)
+	260844  -  ResidentSetSize of job (KB)
+...
+005 (58086.001.000) 2022-07-25 11:11:21 Job terminated.
+	(1) Normal termination (return value 2)
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	236  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	236  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       15        1     22034 
+	   Gpus (Average)       :                 1         1 "CUDA0"
+	   Memory (MB)          :      255    20480     20480 
+
+	Job terminated of its own accord at 2022-07-25T09:11:21Z.
+...
